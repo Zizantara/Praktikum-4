@@ -61,3 +61,8 @@ Fungsi untuk menghitung nilai akhir dengan bobot :
 * Menggunakan struktur validasi yang sama dengan nilai tugas
 * Memastikan semua nilai dalam range yang valid
 
+### 3. Penyimpanan Data
+
+#### Struktur Dictionary
+
+<img src="dictionary.png">
