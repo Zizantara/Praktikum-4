@@ -9,3 +9,17 @@ Kelas   : TI,24,A.3
 # Flowchart
 
 <img src="flowchart.drawio.png">
+
+# Program Mahasiswa Data Nilai Mahasiswa
+
+Program ini dibuat untuk mengelola data nilai mahasiswa dengan kemampuan untuk menambahkan data secara dinamis dan menghitung nilai akhir berdasarkan komponen-komponen nilai yang telah ditentukan.
+
+## Deskripsi Program 
+
+1. Struktur Fungsi 
+
+## Fungsi hitung_nilai_akhir
+
+### Input
+
+<img src="input1.png">
