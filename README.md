@@ -66,3 +66,37 @@ Fungsi untuk menghitung nilai akhir dengan bobot :
 #### Struktur Dictionary
 
 <img src="dictionary.png">
+
+* Menyimpan data mahasiswa dalam dictionary
+* Memudahkan akses dan pengelolaan data
+
+#### Penambahan Data
+
+<img src="data.png">
+
+* Menambahkan dictionary ke dalam list daftar_mahasiswa
+
+### 4. Fitur Program
+
+#### 1. Validasi Input yang Ketat:
+
+* Memastikan input nilai berupa angka
+* Mengecek range nilai (0-100)
+* Pesan error yang informatif
+
+#### 2. Fleksibilitas Input:
+
+* Dapat menambah data berulang kali
+* Konfirmasi untuk penambahan data baru
+
+#### 3. Format Output yang Rapi:
+
+* Tabel dengan alignment yang tepat
+* Header dan footer yang jelas
+* Pemformatan nilai dengan presisi desimal
+
+#### 4. Penanganan Error:
+
+* Try-except untuk menangani ValueError
+* Pesan error yang user-friendly
+* Loop untuk memastikan input valid
