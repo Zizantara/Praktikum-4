@@ -32,4 +32,4 @@ Fungsi untuk menghitung nilai akhir dengan bobot :
 
 #### Fungsi tampilkan_daftar
 
-<img src="inpu2">
+<img src="inpu2.png">
