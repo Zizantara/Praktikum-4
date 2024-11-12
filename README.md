@@ -100,3 +100,26 @@ Fungsi untuk menghitung nilai akhir dengan bobot :
 * Try-except untuk menangani ValueError
 * Pesan error yang user-friendly
 * Loop untuk memastikan input valid
+
+### 5. Best Practices yang Diterapkan
+
+#### 1. Modularitas:
+
+* Pemisahan fungsi-fungsi yang jelas
+* Fungsi dengan tanggung jawab spesifik
+
+#### 2. Validasi Data:
+
+* Input validation untuk semua nilai
+* Range checking untuk nilai akademik
+
+#### 3. User Interface:
+
+* Output terformat dengan baik
+* Pesan yang jelas untuk user
+
+#### 4. Maintainability:
+
+* Kode yang terstruktur
+* Komentar yang informatif
+* Penamaan variabel yang jelas
