@@ -23,3 +23,13 @@ Program ini dibuat untuk mengelola data nilai mahasiswa dengan kemampuan untuk m
 #### Input
 
 <img src="input1.png">
+
+Fungsi untuk menghitung nilai akhir dengan bobot :
+
+* Tugas : 30%
+* UTS   : 35%
+* UAS   : 35%
+
+#### Fungsi tampilkan_daftar
+
+<img src="inpu2">
