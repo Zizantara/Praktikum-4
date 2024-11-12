@@ -16,6 +16,14 @@ Program ini dibuat untuk mengelola data nilai mahasiswa dengan kemampuan untuk m
 
 ## Deskripsi Program 
 
+### Input
+
+<img src="input.png">
+
+### Output
+
+<img src="outpur.png">
+
 ### 1. Struktur Fungsi 
 
 #### Fungsi hitung_nilai_akhir
