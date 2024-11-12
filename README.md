@@ -36,7 +36,7 @@ Fungsi untuk menghitung nilai akhir dengan bobot :
 * Menggunakan string formatting untuk alignment
 * Memformat output dengan lebar kolom yang sesuai
 
-#### Fungsi Main ( baris 20-77 )
+#### Fungsi Main
 
 <img src="main.png">
 
@@ -49,3 +49,15 @@ Fungsi untuk menghitung nilai akhir dengan bobot :
 #### Validasi Nilai Tugas 
 
 <img src="tugas.png">
+
+* Memastikan input berupa angka (float)
+* Validasi range nilai 0-100
+* Penanganan error untuk input tidak valid
+
+#### Validasi Nilai UTS dan UAS
+
+<img src="uts&uas.png">
+
+* Menggunakan struktur validasi yang sama dengan nilai tugas
+* Memastikan semua nilai dalam range yang valid
+
