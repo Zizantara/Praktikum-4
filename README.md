@@ -20,9 +20,7 @@ Program ini dibuat untuk mengelola data nilai mahasiswa dengan kemampuan untuk m
 
 #### Fungsi hitung_nilai_akhir
 
-#### Input
-
-<img src="input1.png">
+<img src="hitung.png">
 
 Fungsi untuk menghitung nilai akhir dengan bobot :
 
@@ -32,4 +30,22 @@ Fungsi untuk menghitung nilai akhir dengan bobot :
 
 #### Fungsi tampilkan_daftar
 
-<img src="inpu2.png">
+<img src="daftar.png">
+
+* Fungsi untuk menampilkan data dalam format tabel
+* Menggunakan string formatting untuk alignment
+* Memformat output dengan lebar kolom yang sesuai
+
+#### Fungsi Main ( baris 20-77 )
+
+<img src="main.png">
+
+* Fungsi utama yang menjalankan program
+* Menginisialisasi list daftar_mahasiswa
+* Mengatur logika input dan validasi data
+
+### 2. Validasi Input 
+
+#### Validasi Nilai Tugas 
+
+<img src="tugas.png">
