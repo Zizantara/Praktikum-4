@@ -16,9 +16,9 @@ Program ini dibuat untuk mengelola data nilai mahasiswa dengan kemampuan untuk m
 
 ## Deskripsi Program 
 
-## 1. Struktur Fungsi 
+### 1. Struktur Fungsi 
 
-### Fungsi hitung_nilai_akhir
+#### Fungsi hitung_nilai_akhir
 
 #### Input
 
